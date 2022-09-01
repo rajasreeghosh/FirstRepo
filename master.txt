@@ -1,0 +1,10 @@
+git innit to initialize a repository
+----------------------------------------------
+(master)
+Whenever a git repository is created for the first
+time it creates a default branch , the name of that 
+branch is called master.
+Navigating to other branches will change the name in the bracket.
+----------------------------------------------------
+touch something.txt to create files in the repo
+----------------------------------------------------
